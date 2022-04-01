@@ -6,9 +6,15 @@ Recuerde que cada .apk es un problema suyo si lo instala o no esto está copiado
 `v0.2.0-alphao v5.9- beta.1` ([Ataque](https://github.com/johnpradoo/spotify.apk/blob/main/a00.java))  
  `.apk v8.6.82.11` ([.APK](https://github.com/johnpradoo/spotify.apk/releases/download/v8.6.82.11/v8.6.82.11.apk))
 
+<div align="center">
+
 [![Python](https://img.shields.io/badge/-twitter-black?style=flat&logo=twitter&link=https://twitter.com/johnpradooo)](https://twitter.com/johnpradooo)
 [![Python](https://img.shields.io/badge/-instagram-Red?style=flat&logo=instagram&link=https://instagram.com/johnpradoo)](https://instagram.com/johnpradoo) 
 [![Python](https://img.shields.io/badge/-spotify-black?style=flat&logo=spotify&link=https://open.spotify.com/user/thepradotv)](https://open.spotify.com/user/thepradotv)
 [![Python](https://img.shields.io/badge/-paypal-black?style=flat&logo=paypal&link=https://www.paypal.com/paypalme/andersonprado?country.x=CO&locale.x=es_XC)](https://www.paypal.com/paypalme/andersonprado?country.x=CO&locale.x=es_XC)
-
-[![Matrix SVG](https://c.tenor.com/tzi9K1ohLLwAAAAC/demon-slayer-nezuko.gif)
+  
+[![Matrix SVG](https://c.tenor.com/m2HlW_iClNUAAAAC/demon-slayer-kimetsu-no-yaiba.gif)
+  
+###### (Play Lis) 
+  ![](https://img.shields.io/badge/spotify-%7C-0%2C%2022%2C%20100)
+</div>

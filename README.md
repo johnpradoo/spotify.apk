@@ -1,4 +1,6 @@
-# (Baypass).apk 
+# **(Baypass).apk** 
+
+ 
 Prelanzamiento Esta versión es **BETA** , dejare las fuentes pronto cuando Spotify lance su próximo paso.
 Recuerde que cada .apk es un problema suyo si lo instala o no esto está copiado por nosotros y no hacemos responsables por cuentas ads, ya que es versión **BETA**, y . *com.spotify* . puede ejecutar pruebas jurídicas en su contra, pero hay una probalividad de un 0.1% de que ataque su cuenta directamente.
 
@@ -13,8 +15,6 @@ Recuerde que cada .apk es un problema suyo si lo instala o no esto está copiado
 [![Python](https://img.shields.io/badge/-spotify-black?style=flat&logo=spotify&link=https://open.spotify.com/user/thepradotv)](https://open.spotify.com/user/thepradotv)
 [![Python](https://img.shields.io/badge/-paypal-black?style=flat&logo=paypal&link=https://www.paypal.com/paypalme/andersonprado?country.x=CO&locale.x=es_XC)](https://www.paypal.com/paypalme/andersonprado?country.x=CO&locale.x=es_XC)
   
-[![Matrix SVG](https://c.tenor.com/m2HlW_iClNUAAAAC/demon-slayer-kimetsu-no-yaiba.gif)
+[![Matrix SVG](https://c.tenor.com/outcwwThgpMAAAAC/sukuna-ryomen-sukuna.gif)
   
-###### (Play Lis) 
-  ![](https://img.shields.io/badge/spotify-%7C-0%2C%2022%2C%20100)
 </div>

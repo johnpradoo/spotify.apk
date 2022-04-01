@@ -10,3 +10,5 @@ Recuerde que cada .apk es un problema suyo si lo instala o no esto está copiado
 [![Python](https://img.shields.io/badge/-instagram-Red?style=flat&logo=instagram&link=https://instagram.com/johnpradoo)](https://instagram.com/johnpradoo) 
 [![Python](https://img.shields.io/badge/-spotify-black?style=flat&logo=spotify&link=https://open.spotify.com/user/thepradotv)](https://open.spotify.com/user/thepradotv)
 [![Python](https://img.shields.io/badge/-paypal-black?style=flat&logo=paypal&link=https://www.paypal.com/paypalme/andersonprado?country.x=CO&locale.x=es_XC)](https://www.paypal.com/paypalme/andersonprado?country.x=CO&locale.x=es_XC)
+
+[![Matrix SVG](https://tenor.com/es/ver/demon-slayer-nezuko-kimetsu-no-yaiba-entertainment-district-arc-gif-24444437)

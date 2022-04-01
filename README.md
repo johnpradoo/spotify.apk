@@ -9,5 +9,5 @@ Recuerde que cada .apk es un problema suyo si lo instala o no esto está copiado
 
 
 # L_0x01a4:
- L_0x01a4 ([`Codigo RDL`](https://github.com/johnpradoo/spotify.apk/blob/main/a00.java))       
+ L_0x01a4 ([`Codigo ADS`](https://github.com/johnpradoo/spotify.apk/blob/main/ads/sponsorship/model/SponsorshipAdData.java))       
 *v0.2.0-alphao v5.9- beta.1* ([`Ataque`](https://github.com/johnpradoo/spotify.apk/blob/main/a00.java))
